@@ -1,1 +1,23 @@
 # WINDOW-FUNCTIONS-SUBQUERIES-AND-CTES
+
+
+
+# COMPANY: CODTECH IT SOLUTIONS
+
+# NAME:  PRAVALIKA MUCHANTHALA
+
+# INTERN ID: CT04WUF
+
+# DOMAIN: SQL
+
+# DURATION: 4 WEEKS
+
+# MENTOR: NEELA SANTOSH
+
+# PROJECT DESCRIPTION:   I have done queries using window functions ,sub Queries and CTE's
+
+# Output:
+
+
+
+
